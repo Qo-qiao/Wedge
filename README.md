@@ -7,7 +7,6 @@
 
 
 [![Stars](https://img.shields.io/github/stars/Qo-qiao/Wedge?style=flat-square&logo=github)](https://github.com/Qo-qiao/Wedge)
-[![Forks](https://img.shields.io/github/forks/Qo-qiao/Wedge?style=flat-square)](https://github.com/Qo-qiao/Wedge/fork)
 [![License](https://img.shields.io/badge/license-Apache--2.0-blue?style=flat-square)](./LICENSE)
 
 </div>
