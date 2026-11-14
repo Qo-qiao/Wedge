@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./image/512.png" height="100" />
+  <img src="./image/512.png" height="150" />
   &nbsp;&nbsp;
   <span style="font-size:80px; font-weight:bold; vertical-align:middle;">Wedge</span>
 
