@@ -5,7 +5,7 @@
 <p><strong>看、改、定位、整理、对比——便捷文档编辑器</strong></p>
 
 ![Stars](https://img.shields.io/github/stars/Qo-qiao/Wedge?style=social&logo=github)
-[![License](https://img.shields.io/github/license/Qo-qiao/Wedge?style=flat-square)](./LICENSE)
+[![License](https://img.shields.io/badge/license-Apache--2.0-blue?style=flat-square)](./LICENSE)
 
 </div>
 
