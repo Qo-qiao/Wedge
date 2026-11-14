@@ -1,3 +1,5 @@
+(./image/256.ico) 
+
 <h1>Wedge</h1>
 
 <p><strong>看、改、定位、整理、对比——便捷文档编辑器</strong></p>
@@ -81,6 +83,5 @@ Wedge 是一款轻量化多功能聚合形工作台，服务于「随手打开�
 
 ![微信](./image/weixin.png)
 ![支付宝](./image/zhifubao.jpg)
-<img src="weixin.png" alt="赞助" width="180">
-<img src="zhifubao.jpg" alt="赞助" width="180">
+
 </details>
