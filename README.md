@@ -1,4 +1,4 @@
-(./image/256.ico) 
+<div align="center">
 
 <h1>Wedge</h1>
 
