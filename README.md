@@ -1,3 +1,4 @@
+<div align="center">
 <p align="center">
   <img src="https://github.com/Qo-qiao/Wedge/blob/main/image/512.png" height="60" />
   &nbsp;&nbsp;
