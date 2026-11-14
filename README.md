@@ -1,6 +1,9 @@
 <div align="center">
-[！(https://github.com/Qo-qiao/Wedge/blob/main/image/512.png)]
-<h1>Wedge</h1>
+<p align="center">
+  <img src="https://github.com/Qo-qiao/Wedge/blob/main/image/512.png" height="60" />
+  &nbsp;&nbsp;
+  <h1 style="display:inline-block; vertical-align:middle;">Wedge</h1>
+</p>
 
 <p><strong>看、改、定位、整理、对比——便捷文档编辑器</strong></p>
 
