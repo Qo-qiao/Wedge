@@ -3,7 +3,7 @@
   &nbsp;&nbsp;
   <h1 style="display:inline-block; vertical-align:middle;">Wedge</h1>
 
-<strong>看、改、定位、整理、对比—便捷文档编辑器</strong>
+<strong>轻量化多功能聚合形工作台</strong>
 
 
 [![Stars](https://img.shields.io/github/stars/Qo-qiao/Wedge?style=flat-square&logo=github)](https://github.com/Qo-qiao/Wedge)
