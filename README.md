@@ -4,8 +4,8 @@
 
 <p><strong>看、改、定位、整理、对比——便捷文档编辑器</strong></p>
 
-[![Stars](https://img.shields.io/github/stars/Qo-qiao/Wedge?style=social&logo=github)]
-[![License]([(https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg)](LICENSE)
+![Stars](https://img.shields.io/github/stars/Qo-qiao/Wedge?style=social&logo=github)
+![License]((https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg)(LICENSE)
 
 </div>
 
