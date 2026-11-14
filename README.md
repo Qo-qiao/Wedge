@@ -4,7 +4,7 @@
 
 <p><strong>看、改、定位、整理、对比——便捷文档编辑器</strong></p>
 
-
+</div>
 
 ## 项目概述
 
@@ -80,8 +80,7 @@ Wedge 是一款轻量化多功能聚合形工作台，服务于「随手打开�
 
 <details>
 <summary>☕ 请作者喝咖啡</summary>
-
-![微信](./image/weixin.png)
-![支付宝](./image/zhifubao.jpg)
+<img width="400" height="500" alt="微信" src="./image/weixin.png" />
+<img width="400" height="500" alt="支付宝" src="./image/zhifubao.jpg" />
 
 </details>
