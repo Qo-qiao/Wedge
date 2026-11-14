@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./image/512.png" height="150" />
   &nbsp;&nbsp;
-  <span style="font-size:80px; font-weight:bold; vertical-align:middle;">Wedge</span>
+  <h1 style="display:inline-block; vertical-align:middle;">Wedge</h1>
 
 <strong>看、改、定位、整理、对比—便捷文档编辑器</strong>
 
