@@ -1,3 +1,4 @@
+<div align="center">
 <p align="center">
   <img src="./image/512.png" height="60" />
   &nbsp;&nbsp;
@@ -13,7 +14,7 @@
 [![Forks](https://img.shields.io/github/forks/Qo-qiao/Wedge?style=flat-square)](https://github.com/Qo-qiao/Wedge/fork)
 [![License](https://img.shields.io/badge/license-Apache--2.0-blue?style=flat-square)](./LICENSE)
 </p>
-
+</div>
 
 
 ## 项目概述
